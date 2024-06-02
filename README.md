@@ -5,4 +5,6 @@
 
 ![Top Langs](https://github-readme-stats-zeta-ten-90.vercel.app/api/top-langs/?username=ogelacinyc&layout=compact&langs_count=10)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=8f58f9dd39706484ecdb08c98acbe783)](https://gist.github.com/ogelacinyc/8f58f9dd39706484ecdb08c98acbe783)
+
 Update 2024.06
